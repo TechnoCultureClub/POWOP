@@ -9,7 +9,7 @@
 
     <hr>
 
-    <?php snippet('session') ?>
+    <?php snippet('sessions') ?>
 
   </main>
 
