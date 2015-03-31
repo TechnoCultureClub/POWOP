@@ -8,9 +8,28 @@ fields:
   title:
     label: Title
     type:  text
-  year:
-    label: Year
+  baseline:
+    label: Baseline
     type:  text
+  ownerName:
+    label: Name of user
+    type: text
+    width: 1/2
+  ownerLink: 
+    label: Project owner link
+    type: Url
+    width: 1/2
+  projectUrl: 
+    label: Project Url
+    type: Url
+  vimeoLink:
+    label: Vimeo code (ex. 499276411)
+    type: text
+    width: 1/2
+  youLink:
+    label: ...Or Youtube code (gh490ae32)
+    type: text
+    width: 1/2
   text:
     label: Text
     type:  textarea
