@@ -8,6 +8,11 @@ fields:
   title:
     label: Title
     type:  text
+    width: 3/4
+  winner: 
+    label: Winner ? 
+    type: checkbox
+    text: check if yes
   baseline:
     label: Baseline
     type:  text

@@ -1,10 +1,12 @@
-# POWOP is based on Kirby
+# POWOP is based on [Kirby](http://getkirby.com)
 
 # Languages
 
 /site/languages/LANG.php has a list of translation snippets as per
 http://getkirby.com/docs/languages/variables
 
+# Structure 
+Sessions > Session > Projects 
 
 # Original Kirby readme follows
 
