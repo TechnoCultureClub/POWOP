@@ -2,16 +2,16 @@ Title: Kirby Starterkit
 
 ----
 
-Author: Bastian Allgeier GmbH
+Author: TechnoCultureClub
 
 ----
 
-Description: This is Kirby's Starterkit.
+Description: Powop is a seasonal event to power up techno-cultural projects.
 
 ----
 
-Keywords: Kirby, CMS, file-based
+Keywords: POWOP, TechnoCultureClub, Montreal
 
 ----
 
-Copyright: © 2009-(date: Year) (link: http://getkirby.com text: Kirby)
+Copyright: © 2015-(date: Year) (link: http://technoculture.club text: TechnoCultureClub)
