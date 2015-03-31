@@ -11,9 +11,12 @@ fields:
   short: 
     label: In a few words
     type: text
+    validate: 
+      min:4
+      max:120
   link:
     label: Link (http://)
-    type: text
+    type: Url
   datestart:
     label: Date start
     type: date
