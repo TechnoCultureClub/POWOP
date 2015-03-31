@@ -6,6 +6,10 @@ Year: 2014
 
 ----
 
+Baseline: Bacon ipsum dolor amet pancetta turkey tenderloin beef ribs pork landjaeger tail fatback
+
+----
+
 Tags: outdoor
 
 ----

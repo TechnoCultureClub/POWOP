@@ -1,15 +1,19 @@
-<h2>List of Projects</h2>
-
-<ul class="teaser cf">
-  <?php foreach(page()->children()->visible()->limit(3) as $project): ?>
-  <li>
-    <h3><a href="<?php echo $project->url() ?>"><?php echo $project->title()->html() ?></a></h3>
-    <p><?php echo $project->text()->excerpt(80) ?> <a href="<?php echo $project->url() ?>">read&nbsp;more&nbsp;→</a></p>
-    <?php if($image = $project->images()->sortBy('sort', 'asc')->first()): ?>
-    <a href="<?php echo $project->url() ?>">
-      <img src="<?php echo $image->url() ?>" alt="<?php echo $project->title()->html() ?>" >
-    </a>
-    <?php endif ?>
-  </li>
-  <?php endforeach ?>
-</ul>
+  <div class="row">
+    <div class="col-md-12">
+      <h2>Projects</h2>
+    </div>
+      <?php foreach(page()->children()->visible()->limit(6) as $project): ?>
+          <div class="col-md-4 col-sm-6">
+              <div class="project-thumb">
+                  <a href="<?php echo $project->url() ?>">
+                  <?php if($image = $project->images()->sortBy('sort', 'asc')->first()): ?>
+                  <img src="<?php echo $image->url() ?>" alt="<?php echo $project->title()->html() ?>" class="img-responsive">
+                  <?php endif ?>
+                  <div class="project-thumb-title">
+                      <h4><?php echo $project->title()->html() ?> - <?php echo $project->baseline()->excerpt(80) ?></h4>
+                  </div>
+                  </a>
+              </div>
+            </div>
+      <?php endforeach ?>
+  </div><!-- portfolio -->
