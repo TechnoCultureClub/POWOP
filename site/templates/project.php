@@ -1,5 +1,7 @@
 <?php snippet('header') ?>
 
+<div class="container mt">
+
   <main class="main" role="main">
 
     <h1><?php echo $page->title()->html() ?></h1>
@@ -29,5 +31,7 @@
     </nav>
 
   </main>
+
+</div>
 
 <?php snippet('footer') ?>
