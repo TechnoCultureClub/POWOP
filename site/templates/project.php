@@ -4,8 +4,8 @@
 
   <main class="main" role="main">
 
-    <div class="project-title smb">
-        <h1 class="center"><?php echo $page->title()->html() ?></h1>
+    <div class="project-title smb center">
+        <h2><?php echo $page->title()->html() ?></h2>
       </div>
 
       <div class="row">

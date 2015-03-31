@@ -10,8 +10,12 @@
       </button>
       <a class="navbar-brand logo" href="<?php echo $site->url ?>"><img src="/assets/images/logo_TCC_sign_S.png" class="img-responsive"></a>
     </div>
-    <div class="navbar-collapse collapse navbar-right">
+
+    <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
+        <li class="powop"><a href="<?php echo $site->url ?>">POWOP</a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
         <?php foreach($pages->visible() as $p): ?>
         <li>
           <a <?php e($p->isOpen(), ' class="active"') ?> href="<?php echo $p->url() ?>"><?php echo $p->title()->html() ?></a>

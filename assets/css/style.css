@@ -135,6 +135,12 @@ h2 {
 .nav li {
 	text-transform: uppercase;
 }
+.powop {
+	position: relative;
+	left: -73px;
+	font-weight: 700;
+	color: rgba(0,0,0,1); 
+}
 .footer {
 	padding-top: 40px;
 	padding-bottom: 40px;
