@@ -2,15 +2,25 @@ Title: About
 
 ----
 
-Text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.
+Text: 
+#### Powop is a seasonal event to power up techno-cultural projects. 
 
-## Lorem Ipsum
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a.
+## About
+
+Powop brings people together in order to power up new projects at the intersection of technology and culture. We host seasonal gatherings in Montreal, during which time some people present brief project pitches and those projects who win over the crowd and the trustees will be granted up to $1000 in order to help them make it happen. It is also an opportunity for you to connect with and encourage the community, find new inspiration, or join other projects and offer up your skills. Empower your life by empowering your techno-culture community.
+
+## Who is it for?
+
+If you have an idea for a project you want to see come to life, but are just missing some funding, are looking for some collaborators with mad skills, or you crave social pressure in order to motivate you, please submit your project to Powop. Take the first step to just make it happen.
+Alternatively, if you don’t have an idea for a project but are curious and passionate about thinking big and shaking up the techno-culture world, join us at our next event and connect with your tribe.
 
 (image: about.jpg)
 
-### Lorem Ipsum
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.
+## What if I don’t win?
 
-#### Lorem Ipsum
+Money isn’t everything. Every step you take to making your project happen is a small win worth celebrating. You’ll get feedback from submitting your project even if you don’t get to present, as well as meeting new potential collaborators when you come to the event. You’ll get to practice pitching your project, get a room full of applause, and perhaps inspire people to help you out even if you don’t win the cash.
+
+## Where does the money come from? / d’où vient l’argent ?
+The Propulsors are so passionate about the techno-culture community that they agreed to sponsor the event. (Yeah!!) Powop doesn’t keep any of the money, and just passes it all to one winning project per gathering. The list of trustees is available here.
+
 In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.
