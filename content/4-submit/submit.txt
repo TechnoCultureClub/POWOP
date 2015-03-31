@@ -2,4 +2,10 @@ Title: Submit
 
 ----
 
-Text: Submit your project into the selection process for the next session!
+Text: Submit your project into the selection process for the next session, using the form below!
+
+## Project selection criteria
+
+- Your project is within the realm of a techno-cultural project.
+- You are passionate about making your project come to life.
+- If selected, you are willing to present your project in person at the [next session](/sessions)

@@ -5,6 +5,9 @@
 /site/languages/LANG.php has a list of translation snippets as per
 http://getkirby.com/docs/languages/variables
 
+# Submit using
+http://formspree.io/
+
 # Structure 
 Sessions > Session > Projects 
 
