@@ -6,7 +6,7 @@
         <h1><?php echo $page->title()->html() ?></h1>
         <?php echo $page->text()->kirbytext() ?>
 
-        <form class="form-horizontal" action="//formspree.io/aharlap@gmail.com" method="post">
+        <form class="form-horizontal" action="//formspree.io/EXAMPLE_EMAIL@gmail.com" method="post">
 
 	        <div class="form-group">
 				<label for="Name" class="col-sm-2 control-label">Your Name</label>
