@@ -13,6 +13,7 @@ fields:
     label: Winner ? 
     type: checkbox
     text: check if yes
+    width: 1/4
   baseline:
     label: Baseline
     type:  text
