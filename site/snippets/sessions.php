@@ -1,7 +1,7 @@
-<h2>Latest Sessions</h2>
+<h2>List of Sessions</h2>
 
 <ul class="teaser cf">
-  <?php foreach(page('')->children()->visible()->limit(3) as $session): ?>
+  <?php foreach(page('sessions')->children()->visible()->limit(3) as $session): ?>
   <li>
     <h3><a href="<?php echo $session->url() ?>"><?php echo $session->title()->html() ?></a></h3>
     <p><?php echo $session->text()->excerpt(80) ?> <a href="<?php echo $session->url() ?>">read&nbsp;more&nbsp;→</a></p>
@@ -13,3 +13,4 @@
   </li>
   <?php endforeach ?>
 </ul>
+
