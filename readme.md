@@ -1,4 +1,12 @@
-# Kirby
+# POWOP is based on Kirby
+
+# Languages
+
+/site/languages/LANG.php has a list of translation snippets as per
+http://getkirby.com/docs/languages/variables
+
+
+# Original Kirby readme follows
 
 Kirby is a file-based CMS.
 Easy to setup. Easy to use. Flexible as hell.
