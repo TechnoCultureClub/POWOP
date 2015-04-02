@@ -1,22 +1,29 @@
 <?php if(!defined('KIRBY')) exit ?>
 
 title: Trustee
-pages:
-  template: trustee
+pages: false 
 files: true
 fields:
-  name:
+  title:
     label: Name
     type:  text
+  boite:
+    label: Company
+    type: text
+    width:1/2
+  Website:
+    label: Link (http://)
+    type: Url
+    width:1/2
+  linkedin:
+    label: LinkedIn
+    type: Url
   short: 
     label: In a few words
     type: text
     validate: 
       min:4
       max:120
-  link:
-    label: Link (http://)
-    type: Url
   datestart:
     label: Date start
     type: date
