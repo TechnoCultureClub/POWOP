@@ -1,0 +1,7 @@
+title: inputCheckTC
+----
+type: checkbox
+----
+label: Is your project techno-cultural?
+----
+placeholder: 

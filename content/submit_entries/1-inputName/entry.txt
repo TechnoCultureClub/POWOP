@@ -1,3 +1,5 @@
+title: inputName
+----
 type: text
 ----
 label: Your Name
