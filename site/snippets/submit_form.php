@@ -1,8 +1,15 @@
-<h2> Project Entry Form </h2>
-
 <form class="form-horizontal" action="//formspree.io/boygeorge@technoculture.club" method="post">
+</form>
 
+
+<!--
+<?php foreach(page('submit_form')->children() as $entry): ?>
+  <?php echo $entry ?>
   <div class="form-group">
+    <label for="<?php echo $entry->id() ?>" class="col-sm-2 control-label"><?php echo $entry->label() ?></label>
+    <div class="col-sm-10">
+      <input type="<?php echo $entry->id() ?>" class="form-control" id="<?php echo $entry->id() ?>" placeholder="<?php echo $entry->placeholder() ?>">
+    </div>
   </div>
 
   <div class="form-group">
@@ -45,16 +52,6 @@
   <div class="col-sm-offset-2 col-sm-10">
     <button type="submit" class="btn btn-default" name="Send"><?php echo l::get('submit') ?></button>
   </div>
+-->
 
 </form>
-
-
-name
-description (why? for whom? how/what?)
-tagline / one sentence
-participants
-name
-social link(s)
-video link 
-image link 
-url ? (prototype of project or project website/blog)

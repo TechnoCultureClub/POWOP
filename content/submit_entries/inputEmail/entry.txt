@@ -1,0 +1,5 @@
+type: email
+----
+label: Email address
+----
+placeholder: Enter your email address

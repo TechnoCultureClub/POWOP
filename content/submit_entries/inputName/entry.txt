@@ -1,0 +1,5 @@
+type: text
+----
+label: Your Name
+----
+placeholder: Enter your first and last name
