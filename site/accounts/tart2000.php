@@ -6,6 +6,8 @@ password: >
   $2a$10$BWQFefRyjDVHgpqJ9U411.m1irRJz2LePEbLMVJ5rY4GZ9qgMY./K
 language: en
 role: admin
-token: d210e646656c1226c5c6dc137947552b0b3d51a0
+token: f5457f6d3271223dd517c02a543cfe78260fa582
 history:
+  - sessions/Summer-2015/project-a
+  - sessions/automn-2015
   - trustees/arthur-schmitt

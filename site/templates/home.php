@@ -11,8 +11,6 @@
 
     <hr>
 
-    <?php snippet('projects') ?>
-
   </main>
 
 </div>

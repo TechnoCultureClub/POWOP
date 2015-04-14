@@ -635,4 +635,17 @@ a.anchor{
 	padding-left: 10px;
 	padding-right: 10px;
 }
+.winner {
+	position: absolute;
+	top: 20px;
+	left: 10px;
+	background-color: yellow; 
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	display: -webkit-inline-box;
+	border-top-right-radius: 50%;
+	border-bottom-right-radius: 50%;
+}
 

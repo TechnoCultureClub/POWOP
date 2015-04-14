@@ -4,6 +4,10 @@
 
   <main class="main" role="main">
 
+    <div class="container pager left">
+      <li><a href="<?php echo $page->parent()->url() ?>" class="previous">&larr; <?php echo l::get('back-to') ?> <?php echo $page->parent()->title() ?></a></li>
+    </div>
+
     <div class="project-title smb center">
         <h2><?php echo $page->title()->html() ?></h2>
       </div>
@@ -23,7 +27,7 @@
           <div class="col-md-3">
               <img src="<?php echo $page->images()->first()->url() ?>" class="responsive-img">   
               <div class="spacing"></div>
-              <p><b>Porteur de projet :</b>
+              <p><b><?php echo l::get('project-owner') ?> :</b><br>
               
               <a href="<?php echo $page->ownerLink() ?>"><?php echo $page->ownerName() ?></a>
               
@@ -43,10 +47,10 @@
           <nav class="" role="navigation">
             <ul class="pager">
               <?php if($prev = $page->prevVisible()): ?>
-              <li class="previous"><a href="<?php echo $prev->url() ?>">&larr; previous</a></li>
+              <li class="previous"><a href="<?php echo $prev->url() ?>">&larr; <?php echo l::get('previous') ?></a></li>
               <?php endif ?>
               <?php if($next = $page->nextVisible()): ?>
-              <li class="next"><a href="<?php echo $next->url() ?>">next &rarr;</a></li>
+              <li class="next"><a href="<?php echo $next->url() ?>"><?php echo l::get('next') ?> &rarr;</a></li>
               <?php endif ?>
             </ul>
           </nav>
