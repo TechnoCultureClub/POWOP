@@ -27,6 +27,9 @@
           <div class="col-md-3">
               <img src="<?php echo $page->images()->first()->url() ?>" class="responsive-img">   
               <div class="spacing"></div>
+              <?php if ($page->winner() == '1') : ?>
+                <div class="winner"><i class="fa fa-heart"></i></div>
+              <?php endif ?> 
               <p><b><?php echo l::get('project-owner') ?> :</b><br>
               
               <a href="<?php echo $page->ownerLink() ?>"><?php echo $page->ownerName() ?></a>
