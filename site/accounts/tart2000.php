@@ -11,4 +11,3 @@ history:
   - sessions/automn-2015
   - sessions/Summer-2015
   - sessions/Summer-2015/project-a
-  - trustees/arthur-schmitt

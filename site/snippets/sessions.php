@@ -10,7 +10,7 @@
       <?php if ($eventDate >= $thedate) : ?>
       <div class="col-md-12">
         <h3><a href="<?php echo $session->url() ?>"><?php echo $session->title()->html() ?></a></h3>
-        <p><?php echo $session->text()->excerpt(80) ?> <a href="<?php echo $session->url() ?>">read&nbsp;more&nbsp;→</a></p>
+        <p><?php echo $session->text() ?> </p>
         <?php if($image = $session->images()->sortBy('sort', 'asc')->first()): ?>
         <a href="<?php echo $session->url() ?>">
           <img src="<?php echo $image->url() ?>" alt="<?php echo $session->title()->html() ?>" >
