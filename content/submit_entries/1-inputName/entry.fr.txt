@@ -1,0 +1,8 @@
+
+title: inputName
+----
+type: text
+----
+label: Votre nom
+----
+placeholder: Inscrivez votre nom
