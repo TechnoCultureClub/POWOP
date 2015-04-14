@@ -651,3 +651,12 @@ a.anchor{
 .right {
 	text-align: right;
 }
+li {
+	list-style: none;
+}
+.bigger {
+	font-size: 1.3em;
+}
+.venue {
+	border-left: 1px solid grey;
+}
