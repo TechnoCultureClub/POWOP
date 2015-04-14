@@ -1,4 +1,4 @@
-Title: Autumn 2015
+Title: Winter 2015
 
 ----
 
@@ -26,7 +26,7 @@ Eventstarttime: 18:00
 
 ----
 
-Eventendtime: 
+Eventendtime: 19:00
 
 ----
 
@@ -39,3 +39,11 @@ Enddate:
 ----
 
 Text: 
+
+----
+
+Eventdate: 2015-02-02
+
+----
+
+Registrationlink: 

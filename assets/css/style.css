@@ -648,4 +648,6 @@ a.anchor{
 	border-top-right-radius: 50%;
 	border-bottom-right-radius: 50%;
 }
-
+.right {
+	text-align: right;
+}

@@ -1,0 +1,49 @@
+Title: Summer 2015
+
+----
+
+Text: Here are the summer, 2015, projects.
+
+----
+
+Venuename: A venue name
+
+----
+
+Venueaddress: une adresse - ligne 1
+
+----
+
+Venueaddress2: une adresse - ligne 2
+
+----
+
+Venuepostcode: h2b v57
+
+----
+
+Venuecity: Montreal
+
+----
+
+Eventstarttime: 18:00
+
+----
+
+Eventendtime: 22:00
+
+----
+
+Startdate: 2015-04-15
+
+----
+
+Enddate: 2015-04-30
+
+----
+
+Registrationlink: http://plouf.com
+
+----
+
+Eventdate: 2015-05-03

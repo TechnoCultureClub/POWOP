@@ -8,12 +8,22 @@ fields:
   title:
     label: Title (ex. Summer 2015)
     type:  text
+    width: 1/2
+  eventDate: 
+    label: Event date 
+    type: date
+    width: 1/2
   venueSettings: 
     label: Venue settings
     type: headline 
   venueName: 
     label: Venue name
     type: text
+    width: 1/2
+  registrationLink: 
+    label: Registration Link
+    type: Url
+    width: 1/2
   venueAddress:
     label: Address (line 1)
     type: text
@@ -37,6 +47,7 @@ fields:
     width: 1/2
   eventEndTime:
     label: Event end time
+    type: time
     width: 1/2
   call4Projects:
     label: Call for projects

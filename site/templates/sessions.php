@@ -11,6 +11,7 @@
 
     <hr>
 
+
     <?php snippet('sessions') ?>
 
   </main>

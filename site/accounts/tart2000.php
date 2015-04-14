@@ -8,6 +8,7 @@ language: en
 role: admin
 token: f5457f6d3271223dd517c02a543cfe78260fa582
 history:
-  - sessions/Summer-2015/project-a
   - sessions/automn-2015
+  - sessions/Summer-2015
+  - sessions/Summer-2015/project-a
   - trustees/arthur-schmitt
