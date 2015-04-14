@@ -5,6 +5,7 @@ Title: Welcome
 Text:
 ## Powop is a seasonal event to power up techno-cultural projects.
 
+
 - Read about the project [here](/about)
 - Submit your project for the next session [here](/submit)
 - Learn about past sessions [here](/sessions)
